@@ -243,7 +243,7 @@
          "columns":16,
          "firstgid":65,
          "image":"tilesets_deviant_milkian_3.png",
-         "imageheight":648,
+         "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"Furniture_1",
