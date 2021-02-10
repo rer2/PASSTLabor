@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":22,
@@ -1484,19 +1485,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":577,
-         "image":"..\/tilesets_deviant_milkian_2.png",
-         "imageheight":648,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_2",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
          "tilewidth":32
         }, 
         {
