@@ -135,6 +135,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Sofatalk"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
